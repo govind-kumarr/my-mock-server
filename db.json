@@ -2,17 +2,101 @@
   "dogs": [
     {
       "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
-    },
-    {
-      "id": 1,
       "name": "Tommy",
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "name": "labrador",
+      "age": "1",
+      "gender": "other",
+      "place": "banglore",
+      "id": 2
+    },
+    {
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "name": "Mildred",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "name": "Betty",
+      "age": 2,
+      "place": "Patna",
+      "gender": "Male",
+      "id": 5
+    },
+    {
+      "name": "Gertrude",
+      "age": 1,
+      "place": "Mumbai",
+      "gender": "Female",
+      "id": 6
+    },
+    {
+      "name": "Mimi",
+      "age": 1,
+      "place": "Mumbai",
+      "gender": "Female",
+      "id": 7
+    },
+    {
+      "name": "Winnie",
+      "age": 1,
+      "place": "Mumbai",
+      "gender": "Female",
+      "id": 8
+    },
+    {
+      "name": "Vivian",
+      "age": 1,
+      "place": "Mumbai",
+      "gender": "Female",
+      "id": 9
+    },
+    {
+      "name": "Trudy",
+      "age": 1,
+      "place": "Mumbai",
+      "gender": "Female",
+      "id": 10
+    },
+    {
+      "name": "Nancy",
+      "age": 1,
+      "place": "Mumbai",
+      "gender": "Female",
+      "id": 11
+    },
+    {
+      "name": "Phyllis",
+      "age": 1,
+      "place": "Mumbai",
+      "gender": "Female",
+      "id": 12
+    },
+    {
+      "name": "Blanch",
+      "age": 1,
+      "place": "Mumbai",
+      "gender": "Female",
+      "id": 13
+    },
+    {
+      "name": "Pyara Puppy",
+      "age": "1",
+      "gender": "other",
+      "place": "1",
+      "id": 14
     }
   ]
 }
