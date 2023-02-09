@@ -32,6 +32,40 @@
       "cost": 1399,
       "borrowed": false,
       "id": 3
+    },
+    {
+      "author": "Swanand Sir",
+      "book_name": "Javascript DSA and Algo",
+      "borrowed": false,
+      "cost": 499,
+      "edition": "2022",
+      "genre": "tech",
+      "id": 4,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "publisher": "Masai"
+    },
+
+    {
+      "author": "Abdul Sir",
+      "book_name": "React Fundamentals",
+      "borrowed": false,
+      "cost": 599,
+      "edition": "2022",
+      "genre": "tech",
+      "id": 5,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "publisher": "Masai"
+    },
+    {
+      "author": "Abdul Sir",
+      "book_name": "Machine Learning & AI",
+      "borrowed": false,
+      "cost": 1099,
+      "edition": "2022",
+      "genre": "tech",
+      "id": 6,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "publisher": "Masai"
     }
   ]
 }
