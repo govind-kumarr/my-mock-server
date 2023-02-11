@@ -1,102 +1,17 @@
 {
-  "dogs": [
+  "blogs": [
     {
       "id": 1,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female"
-    },
-    {
-      "name": "labrador",
-      "age": "1",
-      "gender": "other",
-      "place": "banglore",
-      "id": 2
-    },
-    {
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male",
-      "id": 3
-    },
-    {
-      "name": "Mildred",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male",
-      "id": 4
-    },
-    {
-      "name": "Betty",
-      "age": 2,
-      "place": "Patna",
-      "gender": "Male",
-      "id": 5
-    },
-    {
-      "name": "Gertrude",
-      "age": 1,
-      "place": "Mumbai",
-      "gender": "Female",
-      "id": 6
-    },
-    {
-      "name": "Mimi",
-      "age": 1,
-      "place": "Mumbai",
-      "gender": "Female",
-      "id": 7
-    },
-    {
-      "name": "Winnie",
-      "age": 1,
-      "place": "Mumbai",
-      "gender": "Female",
-      "id": 8
-    },
-    {
-      "name": "Vivian",
-      "age": 1,
-      "place": "Mumbai",
-      "gender": "Female",
-      "id": 9
-    },
-    {
-      "name": "Trudy",
-      "age": 1,
-      "place": "Mumbai",
-      "gender": "Female",
-      "id": 10
-    },
-    {
-      "name": "Nancy",
-      "age": 1,
-      "place": "Mumbai",
-      "gender": "Female",
-      "id": 11
-    },
-    {
-      "name": "Phyllis",
-      "age": 1,
-      "place": "Mumbai",
-      "gender": "Female",
-      "id": 12
-    },
-    {
-      "name": "Blanch",
-      "age": 1,
-      "place": "Mumbai",
-      "gender": "Female",
-      "id": 13
-    },
-    {
-      "name": "Pyara Puppy",
-      "age": "1",
-      "gender": "other",
-      "place": "1",
-      "id": 14
+      "username": "coreyschafer",
+      "title": "Be Present",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Entertainment",
+      "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        { "username": "Jane", "content": "Good One" },
+        { "username": "Bob", "content": "Loved It!" }
+      ]
     }
   ]
 }
