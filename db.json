@@ -119,5 +119,19 @@
       "cost_per_share": 5132,
       "price_action": 3
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "govind",
+      "email": "govind@gmail.com",
+      "password": 123456
+    },
+    {
+      "id": 2,
+      "username": "johndoe",
+      "email": "john@gmail.com",
+      "password": 123456
+    }
   ]
 }
